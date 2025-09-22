@@ -1,9 +1,9 @@
 # iris_mnist_pca_assignment
 # Machine Learning Assignment: K-Means Clustering and PCA Analysis
 
-**Student:** [Your Name]  
+**Student:** Abishek 
 **Date:** September 21, 2025  
-**Course:** [Course Code]  
+**Course:** Intro to machine language  
 
 ---
 
